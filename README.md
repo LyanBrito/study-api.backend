@@ -17,6 +17,7 @@ Os principais conceitos abordados incluem:
 - **[MongoDB](https://www.mongodb.com)**: Banco de dados NoSQL utilizado para o armazenamento de dados.
 - **[Postman](https://web.postman.co)**: Ferramenta para testes de API. 
 - **[Mongoose](https://www.npmjs.com/package/mongoose)**: Biblioteca para modelagem de dados MongoDB em Node.js.
+- **[Biome](https://biomejs.dev/)**: Ferramenta ussda para linting e formatação do código.
 
 
 ## Instalação
